@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     <h1>Esta es la app divisub</h1>
+      <Registro/>
     </>
   )
 }
